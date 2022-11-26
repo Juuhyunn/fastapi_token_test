@@ -8,6 +8,10 @@ fastapi = "*"
 uvicorn = "*"
 sqlalchemy = "*"
 pymysql = "*"
+pydantic = "*"
+attrdict = "*"
+pyjwt = "*"
+mysql-connector-python = "*"
 
 [dev-packages]
 
